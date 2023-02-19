@@ -1,0 +1,20 @@
+* {
+    padding: 0px;
+    margin: 0px;
+}
+.timer {
+    display: flex;
+    justify-content: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 2rem;
+    background-color: red;
+}
+
+.button {
+    border: none;
+    background-color: white;
+    cursor: pointer;
+    font-size: 2rem;
+    border: 1px solid green;
+
+}
